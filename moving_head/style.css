@@ -1,17 +1,15 @@
-/* body {
-    width: 30%; 
-    height: 30%;
-  } */
   body {
-    background-color: #F9F9F9;
+    background-color: #f8f1f1;
   }
-  
+  h1 {text-align: center;}
   #content {
-    background-color: #F7F7EF;
+    background-color: #f8f1f1;
     position: relative;
-    width: 400px;
-    height: 400px;
-    margin: 30px auto;
+    width: 0px;
+    height: 0px;
+    margin: 30px;
+    margin-left: 120px ;
+  
   
     -webkit-box-shadow: 0 0 5px #888;
     box-shadow: 0 0 5px #888;
